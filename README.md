@@ -1,2 +1,6 @@
 # FigmaApp
 Pet Adoption Mobile UI
+
+In this project, we aimed to design and evaluate a pet adoption application to facilitate the process of adopting pets and connecting adopters with dog rescues. The primary focus was to address the specific challenges and requirements faced by both adopters and rescues during the adoption procedure. Adopters and rescues often experience significant stress throughout the process.Currently, both parties rely on various online platforms such as Facebook, Instagram, and Petfinder to search for pets. However, adopters struggle with the multitude of locations available, and none of these platforms effectively assist first-time adopters in finding the perfect dog for them. Similarly, rescues lack a system that allows them to efficiently filter through multiple adopters and identify the ideal candidate. To guide the design and development of the application, we followed a systematic approach that encompassed needs identification, prototyping, and prototype evaluation.
+
+FIGMA Link - https://www.figma.com/proto/5QDUdgLgZczg8yPIivbyUm/Pet-Adoption-App-(Community)?type=design&node-id=113-122&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=113%3A122&show-proto-sidebar=1
